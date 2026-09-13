@@ -15,7 +15,8 @@ delivery removes. Corrections belong upstream in research.
 
 ## What this course builds
 
-Kabini Workforce Services is a teaching client. Across the course the room builds one
+Kabini Workforce Services is a teaching client, described in full in
+[`015_project/project.md`](015_project/project.md). Across the course the room builds one
 thing for it — the **Kabini AI Governance Pack** — a section at a time, and each use case
 delivers a section that is written out, filled in, dated, owned and sourced rather than
 sketched. Kabini, MatchScore, Nora, Cadence, Attestra Inc., Halcyon AI and the named
@@ -30,6 +31,7 @@ shortcut: the artefacts are the kind of document a governance professional signs
 
 | Folder | What it is |
 |---|---|
+| [`015_project/`](015_project/) | **The client and the whole arc** — Kabini Workforce Services, and all thirty use cases in teaching order. Read `015_project/project.md` before anything else |
 | [`use_case_01/`](use_case_01/) | Take stock: what these four systems actually are — Section A of the pack, the AI system inventory and use-case register |
 
 Use cases 2 to 4 are built in research and are not delivered here yet. The backlog runs
