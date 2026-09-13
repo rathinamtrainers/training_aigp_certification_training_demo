@@ -31,10 +31,12 @@ shortcut: the artefacts are the kind of document a governance professional signs
 | Folder | What it is |
 |---|---|
 | [`use_case_01/`](use_case_01/) | Take stock: what these four systems actually are — Section A of the pack, the AI system inventory and use-case register |
-| [`000_initial_data/`](000_initial_data/) | Empty scaffolding carried over from the research repository's shape; nothing in this repository reads it |
 
 Use cases 2 to 4 are built in research and are not delivered here yet. The backlog runs
 to thirty; they land one at a time as the course reaches them.
+
+Nothing else is at the top level, and that is deliberate: this repository holds delivered
+material and nothing a participant would have to be told to ignore.
 
 ## What a use-case folder holds
 
