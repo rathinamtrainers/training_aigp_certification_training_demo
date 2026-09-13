@@ -16,8 +16,9 @@ signs.
 
 ## What is in this folder
 
-| Folder | What it is |
+| Path | What it is |
 |---|---|
+| [`use_case.md`](use_case.md) | **What this hour was for** — the client scenario, exactly what the section delivers, the argument it makes and the rules it rests on, and where every figure was read. Read it first if you were not in the room |
 | [`demo/`](demo/) | **The section itself** — Artefact A v1.0.3, its three annexes and its sources. Start at `demo/README.md`, which says what each file is and the order to read them in |
 | [`concepts/`](concepts/) | The ten teaching pages taught **before** the section: one idea each, worked through to an answer on the real Kabini material. `concepts/README.md` gives the order and says which five the section cannot be followed without |
 | [`slides/`](slides/) | The deck as it was projected, `slides.pdf` |
